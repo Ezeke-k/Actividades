@@ -1,0 +1,10 @@
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.pdb
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.pdb

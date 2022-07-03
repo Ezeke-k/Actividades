@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\bin\Debug\PersonasPruebaParcial2.exe.config
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\bin\Debug\PersonasPruebaParcial2.exe
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\bin\Debug\PersonasPruebaParcial2.pdb
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\bin\Debug\PersonasPruebParcial2.exe
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\bin\Debug\PersonasPruebParcial2.pdb
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\bin\Debug\PersonasPruebParcial2.exe.config
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.Form1.resources
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.Properties.Resources.resources
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.csproj.CopyComplete
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.exe
+C:\Users\pc\Desktop\prog\PDF_info\Programacion\unidad 5\ejercicios\PersonasPruebaParcial2\obj\Debug\PersonasPruebaParcial2.pdb
